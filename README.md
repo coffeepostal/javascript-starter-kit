@@ -3,34 +3,34 @@ I was inspired by [Cory House's](https://github.com/coryhouse) [talk on creating
 
 This is a work in process, so I'll flesh out sections as I get to them, if the section below has no content, it's still being built.
 
-### Package Management
+### ✅ Package Management
 
-### Bundling
+### ✅ Bundling
 
-### Minification
+### ✅ Minification
 
-### Sourcemaps
+### ✅ Sourcemaps
 
-### Transpiling
+### ✅ Transpiling
 
-### Dynamic HTML Generation
+### ✅ Dynamic HTML Generation
 
-### Centralized HTTP
+### ✅ Centralized HTTP
 
-### Mock API Framework
+### ✅ Mock API Framework
 
-### Component Libraries
+### ✅ Component Libraries
 
-### Development Webserver
+### ✅ Development Webserver
 
-### Linting
+### ✅ Linting
 
-### Automated Testing
+### ✅ Automated Testing
 
-### Continuous Integration
+### ✅ Continuous Integration
 
-### Automated Build
+### ✅ Automated Build
 
-### Automated Deployment
+### ✅ Automated Deployment
 
-### Working Example App
+### ✅ Working Example App
