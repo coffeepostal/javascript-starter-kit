@@ -83,9 +83,9 @@ I got a lot of good info from [this article](https://medium.com/welldone-softwar
 
 ### ✅ Work in Process Sharing
 #### Options
-- [localtunnel](https://localtunnel.github.io/www/) 🚀
+- [localtunnel](https://localtunnel.github.io/www/)
 - [ngrok](https://ngrok.com/)
-- [Surge](https://surge.sh)
+- [Surge](https://surge.sh) 🚀
 - [Zeit - Now](https://zeit.co/now)
 
 🚀 currently leaning toward
